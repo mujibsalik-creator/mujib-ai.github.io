@@ -32,4 +32,4 @@ video iklan berbasis AI, serta automasi sederhana. dan saya pun sudah di terima 
 
 ## 📫 Kontak
 - GitHub: https://github.com/mujibsali-creator
-- Email: mujibsalik17@gmial.com
+- Email: mujibsalik17@gmail.com
