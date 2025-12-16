@@ -26,7 +26,7 @@ video iklan berbasis AI, serta automasi sederhana. dan saya pun sudah di terima 
 - AI Video Ads (Segera)
 - Kumpulan Prompt AI
 - Affiliate
-- video seinematic
+- video sinematic
 
 ---
 
